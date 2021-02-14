@@ -1,390 +1,120 @@
 Generation: 0
-Alives: 2060
-New Alives: 1197
-Deads: 1103
+Alives: 65
+New Alives: 15
+Deads: 18
 ********AMOUNT OF CONFIGURATIONS********
 Blocks:1
 Behives:1
-Loafs:0
+Loafs:1
 Boats:1
-Tubs:3
-Blinkers:46
-Toads:0
+Tubs:1
+Blinkers:1
+Toads:1
 Beacons:1
-Gliders:9
-Light-weight Spaceships:0
-Others:414
+Gliders:1
+Light-weight Spaceships:1
+Others:4
 ---------------------------------------
 
 Generation: 0
-Alives: 2154
-New Alives: 851
-Deads: 1094
-********AMOUNT OF CONFIGURATIONS********
-Blocks:3
-Behives:1
-Loafs:1
-Boats:4
-Tubs:2
-Blinkers:79
-Toads:8
-Beacons:5
-Gliders:41
-Light-weight Spaceships:0
-Others:174
----------------------------------------
-
-Generation: 1
-Alives: 1911
-New Alives: 845
-Deads: 790
-********AMOUNT OF CONFIGURATIONS********
-Blocks:3
-Behives:2
-Loafs:1
-Boats:1
-Tubs:1
-Blinkers:57
-Toads:0
-Beacons:4
-Gliders:28
-Light-weight Spaceships:0
-Others:175
----------------------------------------
-
-Generation: 2
-Alives: 1966
-New Alives: 793
-Deads: 889
+Alives: 62
+New Alives: 15
+Deads: 16
 ********AMOUNT OF CONFIGURATIONS********
 Blocks:2
 Behives:1
-Loafs:0
-Boats:3
-Tubs:3
-Blinkers:59
-Toads:6
-Beacons:8
-Gliders:37
-Light-weight Spaceships:0
-Others:152
+Loafs:1
+Boats:1
+Tubs:1
+Blinkers:1
+Toads:1
+Beacons:1
+Gliders:1
+Light-weight Spaceships:1
+Others:0
 ---------------------------------------
 
-Generation: 3
-Alives: 1870
-New Alives: 784
-Deads: 772
+Generation: 1
+Alives: 61
+New Alives: 14
+Deads: 13
 ********AMOUNT OF CONFIGURATIONS********
-Blocks:4
+Blocks:2
 Behives:1
 Loafs:1
 Boats:1
 Tubs:1
-Blinkers:59
-Toads:2
-Beacons:6
-Gliders:22
-Light-weight Spaceships:0
-Others:138
+Blinkers:1
+Toads:1
+Beacons:1
+Gliders:1
+Light-weight Spaceships:1
+Others:0
+---------------------------------------
+
+Generation: 2
+Alives: 62
+New Alives: 15
+Deads: 16
+********AMOUNT OF CONFIGURATIONS********
+Blocks:2
+Behives:1
+Loafs:1
+Boats:1
+Tubs:1
+Blinkers:1
+Toads:1
+Beacons:1
+Gliders:1
+Light-weight Spaceships:1
+Others:0
+---------------------------------------
+
+Generation: 3
+Alives: 61
+New Alives: 14
+Deads: 13
+********AMOUNT OF CONFIGURATIONS********
+Blocks:2
+Behives:1
+Loafs:1
+Boats:1
+Tubs:1
+Blinkers:1
+Toads:1
+Beacons:1
+Gliders:1
+Light-weight Spaceships:1
+Others:0
 ---------------------------------------
 
 Generation: 4
-Alives: 1882
-New Alives: 759
-Deads: 811
+Alives: 62
+New Alives: 15
+Deads: 16
 ********AMOUNT OF CONFIGURATIONS********
-Blocks:8
-Behives:2
+Blocks:2
+Behives:1
 Loafs:1
 Boats:1
-Tubs:0
-Blinkers:44
-Toads:7
-Beacons:6
-Gliders:36
-Light-weight Spaceships:0
-Others:117
----------------------------------------
-
-Generation: 5
-Alives: 1830
-New Alives: 763
-Deads: 766
-********AMOUNT OF CONFIGURATIONS********
-Blocks:7
-Behives:5
-Loafs:1
-Boats:3
-Tubs:2
-Blinkers:49
-Toads:6
-Beacons:6
-Gliders:25
-Light-weight Spaceships:0
-Others:136
----------------------------------------
-
-Generation: 6
-Alives: 1827
-New Alives: 728
-Deads: 766
-********AMOUNT OF CONFIGURATIONS********
-Blocks:9
-Behives:2
-Loafs:1
-Boats:0
-Tubs:2
-Blinkers:61
-Toads:5
-Beacons:10
-Gliders:32
-Light-weight Spaceships:0
-Others:126
----------------------------------------
-
-Generation: 7
-Alives: 1789
-New Alives: 731
-Deads: 751
-********AMOUNT OF CONFIGURATIONS********
-Blocks:4
-Behives:3
-Loafs:1
-Boats:1
-Tubs:2
-Blinkers:46
-Toads:8
-Beacons:6
-Gliders:22
-Light-weight Spaceships:0
-Others:129
----------------------------------------
-
-Generation: 8
-Alives: 1769
-New Alives: 717
-Deads: 747
-********AMOUNT OF CONFIGURATIONS********
-Blocks:5
-Behives:3
-Loafs:1
-Boats:3
-Tubs:3
-Blinkers:51
-Toads:5
-Beacons:6
-Gliders:28
-Light-weight Spaceships:0
-Others:132
----------------------------------------
-
-Generation: 9
-Alives: 1739
-New Alives: 705
-Deads: 747
-********AMOUNT OF CONFIGURATIONS********
-Blocks:6
-Behives:2
-Loafs:1
-Boats:3
 Tubs:1
-Blinkers:48
-Toads:3
-Beacons:2
-Gliders:20
-Light-weight Spaceships:0
-Others:112
----------------------------------------
-
-Generation: 10
-Alives: 1697
-New Alives: 664
-Deads: 701
-********AMOUNT OF CONFIGURATIONS********
-Blocks:6
-Behives:3
-Loafs:0
-Boats:2
-Tubs:1
-Blinkers:58
-Toads:4
-Beacons:4
-Gliders:17
-Light-weight Spaceships:0
-Others:130
----------------------------------------
-
-Generation: 11
-Alives: 1660
-New Alives: 709
-Deads: 718
-********AMOUNT OF CONFIGURATIONS********
-Blocks:7
-Behives:2
-Loafs:0
-Boats:1
-Tubs:3
-Blinkers:52
-Toads:5
-Beacons:3
-Gliders:32
+Blinkers:1
+Toads:1
+Beacons:1
+Gliders:1
 Light-weight Spaceships:1
-Others:133
----------------------------------------
-
-Generation: 12
-Alives: 1651
-New Alives: 701
-Deads: 743
-********AMOUNT OF CONFIGURATIONS********
-Blocks:10
-Behives:3
-Loafs:0
-Boats:0
-Tubs:1
-Blinkers:49
-Toads:8
-Beacons:10
-Gliders:25
-Light-weight Spaceships:0
-Others:125
----------------------------------------
-
-Generation: 13
-Alives: 1609
-New Alives: 692
-Deads: 659
-********AMOUNT OF CONFIGURATIONS********
-Blocks:6
-Behives:6
-Loafs:0
-Boats:0
-Tubs:1
-Blinkers:53
-Toads:7
-Beacons:4
-Gliders:24
-Light-weight Spaceships:0
-Others:113
----------------------------------------
-
-Generation: 14
-Alives: 1642
-New Alives: 673
-Deads: 766
-********AMOUNT OF CONFIGURATIONS********
-Blocks:5
-Behives:5
-Loafs:0
-Boats:2
-Tubs:4
-Blinkers:54
-Toads:12
-Beacons:8
-Gliders:23
-Light-weight Spaceships:0
-Others:112
----------------------------------------
-
-Generation: 15
-Alives: 1549
-New Alives: 654
-Deads: 676
-********AMOUNT OF CONFIGURATIONS********
-Blocks:4
-Behives:8
-Loafs:0
-Boats:0
-Tubs:2
-Blinkers:42
-Toads:3
-Beacons:10
-Gliders:18
-Light-weight Spaceships:0
-Others:131
----------------------------------------
-
-Generation: 16
-Alives: 1527
-New Alives: 634
-Deads: 657
-********AMOUNT OF CONFIGURATIONS********
-Blocks:7
-Behives:3
-Loafs:0
-Boats:0
-Tubs:1
-Blinkers:46
-Toads:3
-Beacons:6
-Gliders:20
-Light-weight Spaceships:1
-Others:121
----------------------------------------
-
-Generation: 17
-Alives: 1504
-New Alives: 632
-Deads: 598
-********AMOUNT OF CONFIGURATIONS********
-Blocks:5
-Behives:6
-Loafs:0
-Boats:3
-Tubs:5
-Blinkers:41
-Toads:8
-Beacons:5
-Gliders:20
-Light-weight Spaceships:0
-Others:117
----------------------------------------
-
-Generation: 18
-Alives: 1538
-New Alives: 619
-Deads: 686
-********AMOUNT OF CONFIGURATIONS********
-Blocks:8
-Behives:2
-Loafs:1
-Boats:0
-Tubs:4
-Blinkers:42
-Toads:6
-Beacons:8
-Gliders:21
-Light-weight Spaceships:0
-Others:112
----------------------------------------
-
-Generation: 19
-Alives: 1471
-New Alives: 627
-Deads: 627
-********AMOUNT OF CONFIGURATIONS********
-Blocks:7
-Behives:6
-Loafs:0
-Boats:0
-Tubs:2
-Blinkers:46
-Toads:2
-Beacons:0
-Gliders:19
-Light-weight Spaceships:0
-Others:100
+Others:0
 ---------------------------------------
 
 ***********PERCENTAGE***********
-Blocks:2.3%
-Beehives:1.32%
-Loafs:0.2%
-Boats:0.57%
-Tubs:0.86%
-Blinkers:21.24%
-Toads:2.12%
-Beacons:2.32%
-Gliders:10.19%
-Light-weight Spaceships:0.04%
-Others:58.86%
+Blocks:15.94%
+Beehives:8.7%
+Loafs:8.7%
+Boats:8.7%
+Tubs:8.7%
+Blinkers:8.7%
+Toads:8.7%
+Beacons:8.7%
+Gliders:8.7%
+Light-weight Spaceships:8.7%
+Others:5.8%
