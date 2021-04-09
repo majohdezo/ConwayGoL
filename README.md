@@ -16,7 +16,7 @@ Matplotlib: pip install matplotlib
 ### Input
 This program needs a txt file.  The correct format to use it is at the first line, in the first column you write the `Universe size`, then a blank space and in the second column the `number of Generations`; then clik enter without empty lines, and from now the first column is the `X`coordinate, then a blank space, and the second column means the `Y`coordinate of each alive cell.
 
-At `line 17`it is necessary to type the txt [file](https://github.com/majohdezo/ConwayGoL/blob/master/Test.txt)  name to begin the simulation. Once the simulation is completed, you will see another [txt file](https://github.com/majohdezo/ConwayGoL/blob/master/Results.txt) with the results of the simulations and the incidence percentage of each configuration.
+At `line 17`it is necessary to type the txt [file](https://github.com/majohdezo/ConwayGoL/blob/master/Test.txt)  name to begin the simulation. Once the simulation is completed, you will see another [file](https://github.com/majohdezo/ConwayGoL/blob/master/Results.txt) with the results of the simulations and the incidence percentage of each configuration.
 
 ### Other inputs:
 If you want to create a random simulation, you can try removing the comments at lines `416, 417 and 425`. G belongs to the `number of Generations`, N to the `Universe size` and line 425 creates the random grid with these values.
